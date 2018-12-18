@@ -1,0 +1,22 @@
+{
+  "name": "gamecolor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colorGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderkarma/color-game.git"
+  },
+  "author": "Karma Drukpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderkarma/color-game/issues"
+  },
+  "homepage": "https://github.com/coderkarma/color-game#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
