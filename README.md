@@ -12,5 +12,6 @@ A player get to choose a colors options to match up color to complete the game.
 •HTML, CSS, JavaScript
 
 # Things learned
-• Learned various methods to select DOM in javascript.
-•  Maneaver event listenser and the breaking out the functions into smaller pieces
+• Learned different ways of selecting javascript DOM.
+•  Maneaver event listenser and making helper function instead making one giant function.
+
